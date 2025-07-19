@@ -1,0 +1,27 @@
+#title{
+    text-align: center;
+    font-size: 40px;
+}
+body{
+    text-align: center;
+}
+
+#input{
+    height: 70px;
+    width: 200px;
+    font-size: 30px;
+}
+
+.button{
+    width: 110px;
+    height: 50px;
+    font-size: 25px;
+
+}
+#add{
+    background-color: greenyellow;
+}
+
+#delete{
+    background-color: red;
+}
