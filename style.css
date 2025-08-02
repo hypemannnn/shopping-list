@@ -25,3 +25,7 @@ body{
 #delete{
     background-color: red;
 }
+
+ul{
+    list-style: none;
+}
